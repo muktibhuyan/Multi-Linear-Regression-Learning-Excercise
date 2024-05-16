@@ -1,5 +1,9 @@
 Title: Exploring Multi Linear Regression for Student Performance Prediction
+
+
 Introduction:
+
+
 As a newcomer to machine learning, I delved into the realm of Multi Linear Regression Models to understand their application in predicting student performance. The objective was to analyze various factors such as hours studied, previous scores, extracurricular activities, sleep hours, and sample questions practiced to determine their impact on the performance index.
 
 Dataset:
